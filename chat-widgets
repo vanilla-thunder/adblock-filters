@@ -1,4 +1,6 @@
-! custom filter list for blocking chatbot and chat support widgets
+! Title: custom filter list for blocking chatbot and chat support widgets
+! Updated: 2025-11-03 02:20 CET
+! Expires: 1 day (update frequency)
 ||channel.io^
 ||moin.ai^
 ||tally.so^
