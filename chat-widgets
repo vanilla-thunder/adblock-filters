@@ -1,3 +1,5 @@
 ! custom filter list for blocking chatbot and chat support widgets
+||channel.io^
 ||moin.ai^
+||tally.so^
 ||x-elephant.com^
