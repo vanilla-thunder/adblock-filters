@@ -1,8 +1,9 @@
 ! Title: custom filter list for blocking chatbot and chat support widgets
-! Updated: 2026-03-05 10:37 CET
+! Updated: 2026-03-10 18:04 CET
 ! Expires: 1 day (update frequency)
 ||asus-brand-assistant.asus.com^
 ||channel.io^
+||chatty.net^
 ||moin.ai^
 ||tally.so^
 ||x-elephant.com^
