@@ -1,5 +1,6 @@
 ! Title: custom filter list for blocking annoying crap like popups
 ! Updated: 2026-03-14 18:22 CET
 ! Expires: 1 day (update frequency)
-||doofinder.com
-||loox.io
+||doofinder.com^
+||loox.io^
+||sealsubscriptions.com^
